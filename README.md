@@ -1,6 +1,6 @@
 # Spire.XLS for C++ - A C++ Library for Processing Excel Documents
 
-[![Foo](https://i.imgur.com/VwKGaGh.png)](https://www.e-iceblue.com/Introduce/xls-for-CPP.html)
+[![Foo](https://i.imgur.com/SxvRO17.png)](https://www.e-iceblue.com/Introduce/xls-for-CPP.html)
 
 [Product Page](https://www.e-iceblue.com/Introduce/xls-for-CPP.html)  |  [Forum](https://www.e-iceblue.com/forum/spire-xls-f4.html) | [Temporary License](https://www.e-iceblue.com/TemLicense.html) | [Customized Demo](https://www.e-iceblue.com/Misc/customized-demo.html)
 
